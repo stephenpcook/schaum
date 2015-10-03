@@ -1,0 +1,15 @@
+# Ignore these files created by LaTeX
+Makefile
+Thumbs.db
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.tdo
+*.toc
+*.out
+.wordcount
+
+# Only pdfs in the root (so not pdfs in the images folger)
+/*.pdf
